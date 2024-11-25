@@ -14,12 +14,13 @@
 
 Projeto com o objetivo de gerar um podcast digital com as facilidades das ferramentas de IA Generativas, todos os Prompts seguem abaixo.
 
-<a href="./outputs/Podcast_O_que_vem_por_AI.mp3" title="Baixa o Postcast"> 📕Clique aqui para baixar o Podcast. 
+🔉[Ouvir o Podcast](https://ia802906.us.archive.org/12/items/podcast-o-que-vem-por-ai-o-poder-do-Low-Code-nos-bancos-eficiencia-e-crescimento/Podcast_O_que_vem_por_AI.mp3) ▶️
 
-  O Poder do Low-Code nos Bancos: Eficiência e Crescimento.</a>
+<a href="./outputs/Podcast_O_que_vem_por_AI.mp3" title="Baixa o Postcast"> Clique aqui para baixar o 🎙️ Podcast. 
+</a>  Episódio 1 - O Poder do Low-Code nos Bancos: Eficiência e Crescimento.
 
 ## Objetivo
-Criar um podcast com AI Generatives.
+Criar um podcast com AI Generatives (com uso do Copilot, Leonardo e Elevenlabs).
 
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
@@ -112,7 +113,7 @@ Repositório desenvolvido para fins didáticos, com a disponibilização da ativ
       width=80 
       src=""
     />
-    <p>&nbsp&nbsp&nbspWeslley Dourado<br>
+    <p align=center>&nbsp&nbsp&nbsp Crédito a Weslley Dourado<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/weslleydourado/">
     GitHub</a>&nbsp;|&nbsp;
@@ -122,8 +123,6 @@ Repositório desenvolvido para fins didáticos, com a disponibilização da ativ
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
-<br/>
-<p>
 
 <div align="center">
 
